@@ -66,5 +66,5 @@ Pada siklus pertama, prototype dibuat dengan MIT App Inventor. Pada siklus kedua
 ![Tampilan aplikasi](screenshots/tampilan.png)
 
 ### Tampilan MITApp
-![Tampilan aplikasi](screenshots/mitApp.JPEG)
-![Tampilan aplikasi android](screenshots/mitAndroid.JPEG)
+![Tampilan aplikasi](screenshots/mitApp.jpeg)
+![Tampilan aplikasi android](screenshots/mitAndroid.jpeg)
